@@ -48,11 +48,8 @@ a{
     color: #3500FC;
     background-color: #fff;
     border-color: #fff;
-    
-
     transition: 1s;
 }
-
 .owl-nav{
     display: none;
 }
@@ -100,7 +97,6 @@ font-size: 24px;
 .btn-login{
     color: #ffff;
     border-color: #ffff;
-
 }
 
 .btn-login:hover{
@@ -256,8 +252,6 @@ font-size: 24px;
     background-position: center;
     background-attachment: fixed;
 }
-
-
 .collection-hd{
     width: 80%;
 }
@@ -354,7 +348,6 @@ font-size: 24px;
 .vd-yt iframe{
     width: 70%;
     height: 472px;
-
     bottom: -130%;
     left: 50%;
      position: absolute;
@@ -572,11 +565,6 @@ font-size: 24px;
 .brand-spons{
     width: 65%;
 }
-
-
-
-
-
 /* -----------------------------------------------footer section start */
 
 .footer{
@@ -903,9 +891,6 @@ figure.effect-bubba:hover p {
         font-size: 12px;
         transition: 1s;
     }
-
-
-
     .do-hd {
         text-align: center;
         width: 64%;
@@ -937,29 +922,16 @@ figure.effect-bubba:hover p {
         border-color: rgb(255 255 255);
         background-color: aqua;
     }
-
-
-
-
     .sol {
         position: relative;
         padding-bottom: 50px;
     }
-
-
-
-
-
-
     .gloww{
         width: 100%;
     }
     .gloww img{
         width: 100%;
     }
-
-
-
 
     .collection-hd {
         width: 80%;
@@ -1083,9 +1055,6 @@ figure.effect-bubba:hover p {
 
 
 @media screen and (max-width: 414px){
-
-
-
     .btn-login {
         color: #ffff;
         border-color: #ffff;
