@@ -417,9 +417,7 @@ font-size: 24px;
     justify-content: center;
 }
 
-
-
-/* tab section */
+/* ---------------------------------------------------tab section */
 
 .tabs{
     position: relative;
@@ -494,14 +492,7 @@ font-size: 24px;
     transition: top 0ms ease-in-out 0ms,
                 opacity 500ms ease-in-out 0ms;
 }
-
-
-
-
 /* ----------------------------------------------------testimonial section start */
-
-
-   
 
 .testi{
     width: 100%;
@@ -534,8 +525,6 @@ font-size: 24px;
 .testi-box p span{
     color: #00FCDB;
 }
-
-
 /* ------------------------------------------------newsletter start */
 .news-img{
     position: relative;
@@ -572,10 +561,8 @@ font-size: 24px;
     background: url(../img/footer-bg-img.jpg);
     background-size: cover;
     background-position: center;
-
     color: #A8ACA7;
 }
-
 .foot-logo{
     margin-bottom: 30px;
 }
@@ -860,10 +847,7 @@ figure.effect-bubba:hover p {
 	transform: translate3d(0,0,0);
 }
 
-
-
-
-/* ----------------------------------------------------tab media query */
+/* --------------------------------------------------------------------------tab media query */
 
 @media screen and (max-width: 800px){
     .me-auto {
@@ -1051,7 +1035,7 @@ figure.effect-bubba:hover p {
 }
 
 
-/* mobile media query */
+/* ---------------------------------------------------------------mobile media query */
 
 
 @media screen and (max-width: 414px){
@@ -1216,6 +1200,4 @@ figure.effect-bubba:hover p {
         text-align: left;
         padding-left: 95px;
     }
-    
-
 }
